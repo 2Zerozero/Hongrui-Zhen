@@ -1,0 +1,22 @@
+footer 
+미디어 쿼리
+
+flex로 잡기
+
+사이즈별 마진값 변경
+
+flex-direction
+
+탭 버튼 = a / button 으로,
+
+25
+22
+20
+17
+16
+15
+
+max width 1600
+1000
+
+width 1400 
